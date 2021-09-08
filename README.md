@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nithinmaliredd
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development, SQL, Jenkins, Ansible
 - 💞️ I’m looking to collaborate on microsoft Azure
 - 📫 How to reach me [gmail](mailto:nithinmalireddy96@gmail.com)
